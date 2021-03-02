@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPreferencesTest</string>
+    <string name="text_register">Register</string>
+    <string name="text_name">Name</string>
+    <string name="text_email">Email</string>
+    <string name="button_register">Register</string>
+    <string name="text_welcome">Welcome!</string>
+    <string name="button_logout">Logout!</string>
+    <string name="button_save">SAVE</string>
+</resources>
